@@ -10,7 +10,7 @@
 <h2>Atividades</h2>
 <p>
   <ul>
-    <li>Map: Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro `this` de um objeto criado por você, e depois sem ele</li>
+    <li>Map: Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro 'this' de um objeto criado por você, e depois sem ele</li>
     <li>Filter: Filtre e retorne todos os números pares de um array.</li>
     <li>Reduce:
       <ul>
