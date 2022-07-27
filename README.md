@@ -1,7 +1,7 @@
 <h1 align="center">Atividade de Map, Filter e Reduce em JavaScript</h1>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/%C3%BAltima%20atualiza%C3%A7%C3%A3o-april%202022-blue" align="center" alt="Badge atualização" /></a>
+  <a href=""><img src="https://img.shields.io/badge/%C3%BAltima%20atualiza%C3%A7%C3%A3o-maio%202022-blue" align="center" alt="Badge atualização" /></a>
   <a href=""><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-green" align="center" alt="Badge status" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge JavaScript" /></a>
   <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="center" alt="Badge Visual Studio Code" /></a>
